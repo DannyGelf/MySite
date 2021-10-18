@@ -1,0 +1,161 @@
+body {
+  margin: 0px;
+  color: #40514e;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  width: auto;
+  margin: 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 550%;
+  margin-top: 50px;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20 rem;
+  color: #66bfbf;
+  padding: 10px;
+
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5 rem;
+  color: #11999e;
+  font-weight: bold;
+}
+
+a {
+  color: #66bfbf;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+hr {
+  width: 8%;
+  border: none;
+  border-top: 8px dotted;
+  color: #eaf6f6;
+  text-align: auto;
+  height: 0;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+
+p {
+  line-height: 2;
+}
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container {
+  margin: 100px 0 30px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px 0 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  margin-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 40%;
+  left: 20%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+}
+.code-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.briefcase-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+}
+
+.rightsfooter {
+  color: #EAF6F6;
+  font-size: 75%;
+  padding-top: 10px;
+}
+.footer-link {
+  color: #084a4d;
+  margin: 10px;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.BUTTON_KLM {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius:20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px 20px 10px 20px;
+  -webkit-box-shadow: -1px 1px 6px 0 #000000;
+  -moz-box-shadow: -1px 1px 6px 0 #000000;
+  box-shadow: -1px 1px 6px 0 #000000;
+  text-shadow: -9px 0 39px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px;
+  margin-bottom: 60px;
+}
+
+.BUTTON_KLM:hover {
+  background: #29b4b9;
+  border: double #27c2c7 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.get-touch {
+  margin: 50px auto 30px;
+  padding: 30px;
+  font-size: 2em;
+}
+
+.greeting {
+  width: 40%;
+  margin: auto;
+}
